@@ -4,7 +4,7 @@
     #sudo apt install python3-venv
 
 #Step 2: Create a Virtual Environment
-   #Go to the folder where setup.py is located (your dnspy folder). Then, create a virtual environment:
+   #Go to the folder where setup.py is located (your dnslookup folder). Then, create a virtual environment:
     python3 -m venv myenv
 
 #Step 3: Activate the Virtual Environment
